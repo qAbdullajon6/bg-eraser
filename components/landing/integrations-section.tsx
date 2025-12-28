@@ -35,13 +35,6 @@ export default function IntegrationsSection() {
             </Card>
           ))}
         </div>
-
-        {/* Mobile app note */}
-        <div className="text-center p-6 bg-accent/10 rounded-lg border border-accent/20">
-          <p className="text-sm text-muted-foreground mb-2">
-            <span className="font-semibold">Mobile App available</span> for on-the-go editing on iOS and Android
-          </p>
-        </div>
       </div>
     </section>
   )
